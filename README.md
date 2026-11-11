@@ -4,6 +4,14 @@ A calm, text-first Android launcher. No icon grid, no feed: a clock, the weather
 
 Kotlin + Jetpack Compose, no Google Play Services, no trackers, no network access except the weather.
 
+<p align="center">
+  <img src="docs/screenshots/home.png" width="200" alt="Home screen: clock, weather, date, shortcuts and pinned apps with screen time">
+  <img src="docs/screenshots/apps.png" width="200" alt="App list with pill search field and today's screen time">
+  <img src="docs/screenshots/insights.png" width="200" alt="Behaviour insights: today's total, hourly and weekly charts, most-used apps">
+  <img src="docs/screenshots/settings.png" width="200" alt="Settings">
+</p>
+<p align="center"><sub>Home · App list (swipe up) · Insights (swipe right) · Settings (long-press)</sub></p>
+
 ## Features
 
 **Home screen**
